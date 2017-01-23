@@ -1,0 +1,7 @@
+--host=localhost
+--password=root
+--user=root
+--dbname=Prueba
+--dbuser=root
+--dbpassword=root
+--port=2424

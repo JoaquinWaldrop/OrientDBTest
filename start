@@ -1,0 +1,4 @@
+#!/bin/bash
+# Start Orient
+
+docker start avisare-orientdb
